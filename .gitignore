@@ -5,5 +5,6 @@ Java/Easy/.vscode
 Java/Easy/lib
 Java/Easy/README.md
 Java/Easy/src/App.Java
+Java/Easy/src/*.class
 JS/index.html
 JS/index.js
