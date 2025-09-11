@@ -26,6 +26,6 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.`
 Follow up: Could you solve it without converting the integer to a string?`
 
 ## Solution:
-- [Python: palindromeNumber.py] (Python/Easy/palindromeNumber.py)
-- [Java: PalindromeNumber.java] (Java/Easy/src/PalindromeNumber.java)
-- [JS: palindromeNumber.js] (JS/Easy/palindromeNumber.js)
+- [Python: palindromeNumber.py] (../Python/Easy/palindromeNumber.py)
+- [Java: PalindromeNumber.java] (../Java/Easy/src/PalindromeNumber.java)
+- [JS: palindromeNumber.js] (../JS/Easy/palindromeNumber.js)
