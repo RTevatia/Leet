@@ -30,6 +30,6 @@ Output: [0,1]`
 Only one valid answer exists.`
 
 ## Solution
-- Python: [twoSum.py] (../Python/Easy/twoSum.py)
-- Java: [TwoSum.Java] (../Java/Easy/src/TwoSum.java)
-- JS: [twoSum] (../JS/Easy/twoSum.js)
+- Python: [twoSum.py](../../Python/Easy/twoSum.py)
+- Java: [TwoSum.java](../../Java/Easy/src/TwoSum.java)
+- JS: [twoSum.js](../../JS/Easy/twoSum.js)
