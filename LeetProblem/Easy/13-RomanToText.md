@@ -46,6 +46,6 @@ s contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M').
 It is guaranteed that s is a valid roman numeral in the range [1, 3999].`
 
 ## Solution
-- Python: [romanToInteger.py](../Python/Easy/romanToInteger.py)
-- Java: [RomanToInteger.java](../Java/Easy/src/RomanToInteger.java)
-- JS: [romanToInteger.js](../JS/Easy/romanToInteger.js)
+- Python: [romanToInteger.py](../../Python/Easy/romanToInteger.py)
+- Java: [RomanToInteger.java](../../Java/Easy/src/RomanToInteger.java)
+- JS: [romanToInteger.js](../../JS/Easy/romanToInteger.js)
