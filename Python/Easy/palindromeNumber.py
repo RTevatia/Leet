@@ -1,5 +1,5 @@
-class Solution(object):
-    def isPalindromeStr(self, x):
+class Solution:
+    def isPalindromeStr(self, x: str) -> bool:
         """
         :type x: int
         :rtype: bool

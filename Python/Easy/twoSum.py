@@ -1,5 +1,5 @@
 
-class Solution(object):
+class Solution:
     # Approach 1 - Brute Force
     # Time complexity - O(n^2)
     # Space complexity - O(1)
