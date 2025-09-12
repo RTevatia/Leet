@@ -4,7 +4,9 @@ Java/Java-Command-by-Rahul.txt
 Java/Easy/.vscode
 Java/Easy/lib
 Java/Easy/README.md
-Java/Easy/src/App.Java
+Java/Easy/src/App.java
+Java/Easy/src/dojo.java
 Java/Easy/src/*.class
 JS/index.html
 JS/index.js
+JS/Easy/dojo.js

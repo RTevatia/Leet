@@ -20,3 +20,8 @@ Explanation: There is no common prefix among the input strings.`
 `1 <= strs.length <= 200
 0 <= strs[i].length <= 200
 strs[i] consists of only lowercase English letters if it is non-empty.`
+
+## Solution
+- [Python: longestCommonPrefix.py](../../Python/Easy/longestCommonPrefix.py)
+- [Java: LongestCommonPrefix.java](../../Java/Easy/src/LongestCommonPrefix.java)
+- [JS: longestCommomPrefix.js](../../JS/Easy/longestCommonPrefix.js)
