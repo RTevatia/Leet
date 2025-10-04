@@ -38,21 +38,21 @@ public class ValidParentheses {
     }
 
     public static void main() {
-        DojoTest dojo = new DojoTest();
+        ValidParentheses vaildParentheses = new ValidParentheses();
 
         String s1 = "()";
-        System.out.println(dojo.isValid(s1));
+        System.out.println(vaildParentheses.isValid(s1));
 
         String s2 = "()[]{}";
-        System.out.println(dojo.isValid(s2));
+        System.out.println(vaildParentheses.isValid(s2));
 
         String s3 = "(]";
-        System.out.println(dojo.isValid(s3));
+        System.out.println(vaildParentheses.isValid(s3));
 
         String s4 = "([])";
-        System.out.println(dojo.isValid(s4));
+        System.out.println(vaildParentheses.isValid(s4));
 
         String s5 = "([)]";
-        System.out.println(dojo.isValid(s5));
+        System.out.println(vaildParentheses.isValid(s5));
     }
 }
