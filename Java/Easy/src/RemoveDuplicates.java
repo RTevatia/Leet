@@ -13,9 +13,8 @@ public class RemoveDuplicates {
         int k = 1; // Position for next unique element
         
         for (int i = 1; i < nums.length; i++) {
-            if (nums[i] != nums[i - 1]) {
+            if (nums[i] != nums[i - 1])
                 nums[k++] = nums[i];
-            }
         }
         return k;
     }
