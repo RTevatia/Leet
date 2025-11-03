@@ -24,6 +24,6 @@ Explanation: There are three ways to climb to the top.
 3. 2 steps + 1 step`
 
 **Solution:**
-- [Python: climbStairs.py](../../Python/Easy/mySqrt.py)
-- [Java: ClimbStairs.java](../../Java/Easy/src/MySqrt.java)
-- [Javascript: climbStairs.js](../../JS/Easy/mySqrt.js)
+- [Python: climbStairs.py](../../Python/Easy/climbStairs.py)
+- [Java: ClimbStairs.java](../../Java/Easy/src/ClimbStairs.java)
+- [Javascript: climbStairs.js](../../JS/Easy/climbStairs.js)
